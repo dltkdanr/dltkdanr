@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=#FFFAFA)
+![header](https://capsule-render.vercel.app/api?type=slice&color=Snow)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=120&animation=fadeIn&section=footer&text=I'm%20MOOK🚗🚘🚛&fontAlign=50)
 <div align="center">
   <h1>My Skill</h1>
