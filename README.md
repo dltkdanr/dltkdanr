@@ -11,8 +11,11 @@
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="max5752@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-
+<h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=radical)
+  </h1>
+  <h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/delay-100/github-readme-stats)
+  </h1>
 
 </div>
