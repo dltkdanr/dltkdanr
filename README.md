@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=260&section=header&text=Hi!%20I'm%20SANGMOOK!&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=260&section=header&text=Hi!%20I'm%20SANGMOOK!&fontSize=65&align="center")
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dltkdanr&show_icons=true&theme=radical" alt="dltkdanr's GitHub stats">
