@@ -2,11 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&backgorund-color="")
 ![header](https://capsule-render.vercel.app/api?type=waving&color=snow&height=120&animation=fadeIn&section=footer&text=I'm%20MOOK🚗🚘🚛&fontAlign=50)
 <div align="center">
-<hr/>
 
 
 <h1 align="center">↓ Follow me ↓</h1>
-  
+  <hr/>
 <p align="center">
   <a href=https://www.instagram.com/m00kjjibba/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/m00kjjibba/"/></a>&nbsp
 
