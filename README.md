@@ -1,5 +1,5 @@
-<header style="background-color:snow;">
-![header](https://capsule-render.vercel.app/api?type=slice&backgorund-color="snow")
+
+![header](https://capsule-render.vercel.app/api?type=slice&backgorund-color="")
 ![header](https://capsule-render.vercel.app/api?type=waving&color=snow&height=120&animation=fadeIn&section=footer&text=I'm%20MOOK🚗🚘🚛&fontAlign=50)
 <div align="center">
   <h1>My Skill</h1>
