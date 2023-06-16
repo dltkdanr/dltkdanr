@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-[header](https://capsule-render.vercel.app/api?type=cylinder)
+![header](https://capsule-render.vercel.app/api?type=cylinder)
 <img src="https://github-readme-stats.vercel.app/api?username=dltkdanr&show_icons=true&theme=radical" alt="dltkdanr's GitHub stats">
   
   </div>
